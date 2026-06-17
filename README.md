@@ -1,15 +1,6 @@
 # 2.unit-convert
 
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/tsengcc2025-lgtm/2.unit-convert)
-
-❯ npm install && npm start
-
-up to date in 294ms
-
-20 packages are looking for funding
-  run `npm fund` for details
-
-> homework2-unit-convert@1.0.0 start
 > node main.js
 
 單位換算助手 — 輸入 exit 結束
@@ -31,7 +22,7 @@ up to date in 294ms
 
 10公里 = 6.21371英里
 
-✔ 請輸入你的問題： 70公斤是幾棒
+✔ 請輸入你的問題： 70公斤是幾磅
 
 [呼叫 tool] convert_unit({"value":70,"from_unit":"kg","to_unit":"lb"})
 
