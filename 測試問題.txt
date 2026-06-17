@@ -1,0 +1,8 @@
+作業2 建議測試（終端應出現 [呼叫 tool] convert_unit(...)）
+
+1. 25 度 C 是華氏幾度？        → 約 77
+2. 10 公里等於幾英里？          → 約 6.214
+3. 70 公斤是幾磅？              → 約 154.323
+4. 1 公尺換成英尺（可選）       → 應回 error，AI 用中文說明不支援
+
+執行：npm install → cp .env.example .env 填 OPENAI_API_KEY → npm start
