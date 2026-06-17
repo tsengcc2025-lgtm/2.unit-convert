@@ -27,3 +27,6 @@
 [呼叫 tool] convert_unit({"value":70,"from_unit":"kg","to_unit":"lb"})
 
 70公斤 = 154.3234磅
+
+<img width="664" height="476" alt="Capture" src="https://github.com/user-attachments/assets/e7d22f3c-b4d8-4bda-ac76-2fd649019dfb" />
+
